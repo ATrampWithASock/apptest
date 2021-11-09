@@ -18,4 +18,4 @@ if [ ${create} ]; then
 
 fi
 
-python3 app.py
+#python3 app.py
